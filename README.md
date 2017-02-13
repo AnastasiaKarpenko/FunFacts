@@ -6,3 +6,8 @@ Topics covered in this project:
 - Using an emulator or device
 - Screen layouts
 - Android Views and Activities
+
+
+Screenshots of the app: 
+
+![alt tag](https://github.com/AnastasiaKarpenko/FunFacts/blob/master/FunFacts_screenshots.png)
